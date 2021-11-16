@@ -1,0 +1,6 @@
+https://www.carbondesignsystem.com/guidelines/icons/library
+
+http://localhost:3000/painel/api/resources/Usuarios/actions/list
+
+# endpoint
+api/resources/Usuarios/actions/list
